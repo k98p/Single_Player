@@ -1,1 +1,1 @@
-# Single_Player
+# Single_Player Mode Using MiniMax Algorithm
